@@ -32,7 +32,7 @@ namespace WPFMontecarlo
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("JJ hueco");
+            MessageBox.Show("Raiz hueco");
         }
     }
 }
