@@ -18,3 +18,4 @@ E:\Universidad Mesoamericana\Séptimo Semestre\Investigación de Operaciones\Pro
 E:\Universidad Mesoamericana\Séptimo Semestre\Investigación de Operaciones\ProyectoFinal\ProyectoIO\WPFMontecarlo\WPFMontecarlo\obj\Debug\WPFMontecarlo.csproj.CopyComplete
 E:\Universidad Mesoamericana\Séptimo Semestre\Investigación de Operaciones\ProyectoFinal\ProyectoIO\WPFMontecarlo\WPFMontecarlo\obj\Debug\WPFMontecarlo.exe
 E:\Universidad Mesoamericana\Séptimo Semestre\Investigación de Operaciones\ProyectoFinal\ProyectoIO\WPFMontecarlo\WPFMontecarlo\obj\Debug\WPFMontecarlo.pdb
+E:\Universidad Mesoamericana\Séptimo Semestre\Investigación de Operaciones\ProyectoFinal\ProyectoIO\WPFMontecarlo\WPFMontecarlo\obj\Debug\App.baml

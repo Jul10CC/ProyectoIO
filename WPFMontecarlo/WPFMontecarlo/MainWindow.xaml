@@ -5,18 +5,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFMontecarlo"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button Content="Shudy gay" HorizontalAlignment="Left" Margin="233,219,0,0" VerticalAlignment="Top" Width="111" Height="55" RenderTransformOrigin="0.5,0.5" Click="Button_Click_1" >
+        Title="MainWindow" Height="596.418" Width="738.209">
+    <Grid Margin="0,0,53.6,-203">
+        <Button Content="Shudy gay" HorizontalAlignment="Left" Margin="467,228,0,0" VerticalAlignment="Top" Width="111" Height="55" RenderTransformOrigin="0.5,0.5" Click="Button_Click_1" >
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform ScaleY="-1" ScaleX="-1"/>
                     <SkewTransform/>
-                    <RotateTransform/>
+                    <RotateTransform Angle="180.596"/>
                     <TranslateTransform/>
                 </TransformGroup>
             </Button.RenderTransform>
         </Button>
+        <DataGrid HorizontalAlignment="Left" Height="247" Margin="68,116,0,0" VerticalAlignment="Top" Width="352">
+            <DataGrid.Columns>
+                <DataGridTextColumn/>
+            </DataGrid.Columns>
+        </DataGrid>
 
     </Grid>
 </Window>
