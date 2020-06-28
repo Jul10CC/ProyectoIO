@@ -1,0 +1,3 @@
+E:\Universidad Mesoamericana\Séptimo Semestre\Investigación de Operaciones\ProyectoFinal\ProyectoIO\WPFMontecarlo\WPFMontecarlo\obj\Debug\WPFMontecarlo.csprojAssemblyReference.cache
+E:\Universidad Mesoamericana\Séptimo Semestre\Investigación de Operaciones\ProyectoFinal\ProyectoIO\WPFMontecarlo\WPFMontecarlo\obj\Debug\App.g.cs
+E:\Universidad Mesoamericana\Séptimo Semestre\Investigación de Operaciones\ProyectoFinal\ProyectoIO\WPFMontecarlo\WPFMontecarlo\obj\Debug\WPFMontecarlo_MarkupCompile.cache
